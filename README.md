@@ -66,8 +66,8 @@ This course follows a **"Concept Extension"** methodology:
 
 I'm always eager to discuss economics, data science, and potential opportunities. Feel free to reach out!
 
-- 💼 [LinkedIn](linkedin.com/in/ianmenachery)
-- 📧 [Email](ianmenachery@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ianmenachery)
+- 📧 [Email](mailto:ianmenachery@gmail.com)
 ---
 
 *This portfolio is a living document and will be updated throughout the semester as I complete new projects and deepen my understanding of economic data science.*
